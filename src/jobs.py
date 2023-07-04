@@ -6,7 +6,6 @@ import os
 SUPER_JOB_API = "v3.r.137628441.065b9b8deae7dce637fcff2952f982e386912ba2.e9067c71aa6de6605c3d46f5446f11c25c640834"
 
 
-
 class Job(ABC):
 
     @abstractmethod
@@ -68,7 +67,8 @@ class Super_Job(Job):
     get_vacancies(): Получает список вакансий в формате JSON
 
     """
-    api: str = os.environ.get("SUPER_JOB_API", "v3.r.137628441.065b9b8deae7dce637fcff2952f982e386912ba2.e9067c71aa6de6605c3d46f5446f11c25c640834")
+    api: str = os.environ.get("SUPER_JOB_API",
+                              "v3.r.137628441.065b9b8deae7dce637fcff2952f982e386912ba2.e9067c71aa6de6605c3d46f5446f11c25c640834")
 
     headers = {
         "Host": "api.superjob.ru",
