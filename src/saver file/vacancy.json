@@ -1,18 +1,1202 @@
 [
   {
-    "name": "Software Engineer",
-    "salary": 5000,
-    "experience": "3 years",
-    "city": "New York",
-    "url": "example.com",
-    "requirement": "Requirements"
+    "name": "Стажер в направлении Backend разработка (Java/Kotlin)",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82293427",
+    "requirement": "Будет преимуществом, если знаешь JavaScript."
   },
   {
-    "name": "Software Engineer",
-    "salary": 5000,
-    "experience": "3 years",
-    "city": "New York",
-    "url": "example.com",
-    "requirement": "Requirements"
+    "name": "Junior Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83015413",
+    "requirement": "ОПЫТ СТРОГО НА JAVA/SPRING ОТ ГОДА!!! Требования: Высшее техническое образование. Знание Java Core. Знание принципов ООП. Навыки разработки на..."
+  },
+  {
+    "name": "Junior Java разработчик (стажер)",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Пенза",
+    "url": "https://hh.ru/vacancy/82937965",
+    "requirement": "Обширная и узнаваемая клиентская база. Полное наименование ВУЗа, в котором учитесь или который закончили. Какими знаниями в рамках разработки Вы..."
+  },
+  {
+    "name": "Junior Java разработчик",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Самара",
+    "url": "https://hh.ru/vacancy/82979782",
+    "requirement": "Опыт реализации проектов (возможно, некоммерческих) или пройденный курс. Уверенное знание Java, Spring, Hibernate. Базовое знание Javascript. Базовое знание SQL. "
+  },
+  {
+    "name": "Стажёр по ручному и автоматизированному тестированию (Java)",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/83055123",
+    "requirement": "Имеешь высшее образование. Понимаешь, как происходит процесс тестирования ПО и имеешь базовые знания по теории / имеешь опыт работы в тестировании..."
+  },
+  {
+    "name": "Junior Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "проспект Жибек Жолы",
+    "employment": "Полная занятость",
+    "city": "Алматы",
+    "url": "https://hh.ru/vacancy/82978913",
+    "requirement": "Опыт разработки на Java не менее 1 года, опыт работы со Spring обязателен. Знание принципов ООП, SOLID, паттернов проектирования. "
+  },
+  {
+    "name": "Java Developer (backend)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Ленинский проспект",
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/83081785",
+    "requirement": "Опыт работы с Java Core 8+, REST, MongoDB/Oracle. Будет плюсом: Spring Boot, Spring Security. Способность работать самостоятельно с..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83093170",
+    "requirement": "Уверенное знание Java SE (8+ версии) и особенностей языка (в том числе многопоточность, понимание механизмов работы GC, профилирование приложений). "
+  },
+  {
+    "name": "Стажёр по ручному и автоматизированному тестированию (Java)",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83055122",
+    "requirement": "Имеешь высшее образование. Понимаешь, как происходит процесс тестирования ПО и имеешь базовые знания по теории / имеешь опыт работы в тестировании..."
+  },
+  {
+    "name": "Junior Java Spring Developer",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": "улица Малахова",
+    "employment": "Полная занятость",
+    "city": "Барнаул",
+    "url": "https://hh.ru/vacancy/82946748",
+    "requirement": "Java, Spring. Понимание принципов ООП, HTTP, REST, XML, JSON. Unit-тестирование (junit, spock). Знакомство с любой системой контроля версий. "
+  },
+  {
+    "name": "Middle Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "улица Скрыганова",
+    "employment": "Полная занятость",
+    "city": "Минск",
+    "url": "https://hh.ru/vacancy/82972318",
+    "requirement": "Опыт работы от 2-х лет. Крепкие общие знания теории программирования. Глубокие знания БД, хороший опыт написания SQL - запросов. "
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/81675211",
+    "requirement": "Java 11+, Spring, Hibernate. PostgreSQL, MongoDb, Redis. REST+Swagger. Rabbit, Kafka. JUnit 5, Testcontainers. Jenkins, Vault, Artifactory, Gitlab-ci, Ansible. "
+  },
+  {
+    "name": "Java Developer / Разработчик на Java (backend)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Белоостровская улица",
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/82935604",
+    "requirement": "Стек технологий: Имеете уверенные знания java 11+ (collections, concurrency) и инструментов (debugger, profiler). Имеете опыт многопоточного программирования с использованием..."
+  },
+  {
+    "name": "Java разработчик (команда Open API)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/83055369",
+    "requirement": "Знание Java(8 или 17), Spring Framework(модули web, boot, cloud в частности). Опыт работы с системами сообщений - ActiveMQ, Kafka. "
+  },
+  {
+    "name": "Junior/Middle Java-Разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Мирабадский район, улица Туркистан",
+    "employment": "Полная занятость",
+    "city": "Ташкент",
+    "url": "https://hh.ru/vacancy/82794864",
+    "requirement": "Опыт коммерческой разработки на Java не менее двух лет. Базовые знания HTML, JavaScript, CSS. Знание SQL. Желателен опыт работы с..."
+  },
+  {
+    "name": "Стажёр по ручному и автоматизированному тестированию (Java)",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Уфа",
+    "url": "https://hh.ru/vacancy/83055124",
+    "requirement": "Имеешь высшее образование. Понимаешь, как происходит процесс тестирования ПО и имеешь базовые знания по теории / имеешь опыт работы в тестировании..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "4-й Кожевнический переулок",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82326650",
+    "requirement": "Знание базовых алгоритмов и структур данных. Знание принципов и шаблонов проектирования ПО. Опыт работы со Spring Framework, Spring Boot, Hibernate. "
+  },
+  {
+    "name": "Java разработчик (команда Open API)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Казань",
+    "url": "https://hh.ru/vacancy/83055371",
+    "requirement": "Знание Java(8 или 17), Spring Framework(модули web, boot, cloud в частности). Опыт работы с системами сообщений - ActiveMQ, Kafka. "
+  },
+  {
+    "name": "Java-разработчик (native)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Автобусная улица",
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/83063350",
+    "requirement": "Опыт коммерческой продуктовой разработки web-приложений на чистой Java (без фрэймворков). Опыт работы с servlet Tomcat. Уверенное владение паттернами ООП. "
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Кожевнический проезд",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83047242",
+    "requirement": "Высшее техническое образование (информационные технологии). Умение читать и вникать в проектную, рабочую документацию. Владение основными принципами дизайна и разработки программного..."
+  },
+  {
+    "name": "Java разработчик (команда Open API)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Краснодар",
+    "url": "https://hh.ru/vacancy/83055370",
+    "requirement": "Знание Java(8 или 17), Spring Framework(модули web, boot, cloud в частности). Опыт работы с системами сообщений - ActiveMQ, Kafka. "
+  },
+  {
+    "name": "Junior Java-разработчик",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Пресненская набережная",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82129111",
+    "requirement": "Навыки самостоятельного программирования на Java. Опыт работы с любой из СУБД (в идеале с Postgres). Навыки работы со Spring и..."
+  },
+  {
+    "name": "Java developer",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Минск",
+    "url": "https://hh.ru/vacancy/83054549",
+    "requirement": "Strong foundation in computer science and algorithms, object-oriented design. 5+ years of Software development experience. Spoken English at..."
+  },
+  {
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82870266",
+    "requirement": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "name": "Ведущий Java-разработчик (удалённо)",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/71455576",
+    "requirement": "Опыт от 2х лет разработки высоко-нагруженных и отказоустойчивых фронтальных систем. - Знание основных методологий разработки программного обеспечения, включая..."
+  },
+  {
+    "name": "Эксперт по разработке программного обеспечения Back-End / Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Ташкент",
+    "url": "https://hh.ru/vacancy/82974385",
+    "requirement": "Опыт работы с Java SE/EE, Spring/Spring Boot, Maven, Hibernate не менее одного года. Опыт работы с Oracle/MySQL..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82343285",
+    "requirement": "Понимание принципов ООП, SOLID, классических алгоритмов и структуры данных. Знание систем сборки: Maven, Gradle. Платформа Spring: Core, Boot, Data, Security..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "проспект Андропова",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83021254",
+    "requirement": "Опыт коммерческой разработки на Java от 1 года. Java, Spring Boot, Микросервисная архитектура. От 0,5 лет работы в банковской..."
+  },
+  {
+    "name": "Junior Java-разработчик",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Баррикадная улица",
+    "employment": "Полная занятость",
+    "city": "Волгоград",
+    "url": "https://hh.ru/vacancy/83092699",
+    "requirement": "Высшее или незаконченное высшее профильное образование обязательно. Понимание концепций ООП. Понимание работы web-приложений. Наличие опыта работы с реляционными СУБД. "
+  },
+  {
+    "name": "Младший Java-разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82194182",
+    "requirement": "Делаем только то, что будет востребовано – никакой работы в стол или на потом. Гибкость в подходах и инструментах – команда сама..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82933752",
+    "requirement": "Высшее техническое образование. Опыт работы на аналогичной должности от 2-х лет. Владение английским - чтение технической литературы. Опыт разработки высоконагруженных..."
+  },
+  {
+    "name": "Java Backend Developer (junior+/middle)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Комсомольский проспект",
+    "employment": "Полная занятость",
+    "city": "Новосибирск",
+    "url": "https://hh.ru/vacancy/82373667",
+    "requirement": "Хорошее знание Java Core, Spring boot, Spring Data JPA/Hibernate,. Опыт разработки веб-приложений с использованием фреймворка Spring. "
+  },
+  {
+    "name": "Junior Java Frontend Developer",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": "улица Малахова",
+    "employment": "Полная занятость",
+    "city": "Барнаул",
+    "url": "https://hh.ru/vacancy/82946754",
+    "requirement": "Java. Понимание принципов ООП, многопоточности, HTTP, REST, XML, JSON. Java Swing или JavaFX. Unit-тестирование (junit, spock). Знакомство с любой..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83050551",
+    "requirement": "Стек технологий: Java 8-11, Kotlin. Уверенное владение Java, понимание принципов работы JVM. Знание основных библиотек и шаблонов проектирования. "
+  },
+  {
+    "name": "Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "улица Островского",
+    "employment": "Полная занятость",
+    "city": "Казань",
+    "url": "https://hh.ru/vacancy/82277966",
+    "requirement": "Понимание микросервисной архитектуры. Приветствуется наличие опыта работы с Wildfly, Quarkus/Spring, Flextera. Опыт работы с SQL (Oracle). Опыт использования средства..."
+  },
+  {
+    "name": "Java Developer Trainee",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/82279122",
+    "requirement": "Понимание принципов ООП, понимание алгоритмов и структур данных, знание Java Core. Обязательное знание основ Java EE (Servlets, jsp). "
+  },
+  {
+    "name": "Ведущий разработчик JAVA, удалённо",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83087736",
+    "requirement": "Опыт от 2х лет разработки высоко-нагруженных и отказоустойчивых фронтальных систем. - Знание основных методологий разработки программного обеспечения, включая..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Цветной бульвар",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82859484",
+    "requirement": "Наличие опыта программирования на Java от 2 лет. Высшее образование. Опыт работы с реляционными базами данных. Опыт написания плагинов для..."
+  },
+  {
+    "name": "Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82794658",
+    "requirement": "Опыт разработки на Java (>= 8) от 2 лет. Опыт работы с SQL (СУБД PostgreSQL или подобной). Опыт работы с Oracle..."
+  },
+  {
+    "name": "Java разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Алматы",
+    "url": "https://hh.ru/vacancy/82440804",
+    "requirement": "Обязательно: - Опыт разработки web приложений от 2 лет. Язык опыта не важен, главное чтобы на данный момент человек знал как..."
+  },
+  {
+    "name": "Java Developer (junior)",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Новосибирск",
+    "url": "https://hh.ru/vacancy/82724403",
+    "requirement": "Стек технологий: Java. Понимание алгоритма решения. Базовые знания мат.статистики и комбинаторики. Знание битовой математики. Большим плюсом будет: Знание СУБД: SQL..."
+  },
+  {
+    "name": "Java Developer (middle)",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/81768372",
+    "requirement": "Уверенное знание Java 11 и современных фреймворков (Spring Boot). Ясное представление того, чем хороший код отличается от плохого. "
+  },
+  {
+    "name": "Back-end разработчик / Java",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "СТ",
+    "employment": "Полная занятость",
+    "city": "Волгоград",
+    "url": "https://hh.ru/vacancy/82177777",
+    "requirement": "Опыт работы с Java. Опыт проектирования структуры реляционных БД и индексов таблиц. Умение формировать MySQL-запросы. Навыки работы с JS..."
+  },
+  {
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Краснодар",
+    "url": "https://hh.ru/vacancy/82870268",
+    "requirement": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "name": "Java developer cтажер",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Новосибирск",
+    "url": "https://hh.ru/vacancy/81566782",
+    "requirement": "Ты выпускник 3-4 курсов технических специальностей. Расскажи о своих главных навыках и качествах, которые помогут пройти стажировку."
+  },
+  {
+    "name": "Middle Java Developer",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "улица Окулова",
+    "employment": "Полная занятость",
+    "city": "Пермь",
+    "url": "https://hh.ru/vacancy/83013461",
+    "requirement": "Понимание основных концепций (realm, client, user, authNote, provider, required action). ️ опыт коммерческой разработки. ️ знание протокола OAuth 2.0, OIDC. ️ "
+  },
+  {
+    "name": "Middle Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Выборгская набережная",
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/80633562",
+    "requirement": "Опыт коммерческой разработки от 3х лет. Уверенное знание Java Core. Знание основных структур данных и алгоритмов. Практический опыт в..."
+  },
+  {
+    "name": "Junior Java Developer",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": "улица Казинца",
+    "employment": "Полная занятость",
+    "city": "Минск",
+    "url": "https://hh.ru/vacancy/81905238",
+    "requirement": "Хороший уровень знаний JavaEE, глубокое понимание принципов ООП. Профильное образование (IT / технический). Аналитические способности, умение работать в команде, ответственность. "
+  },
+  {
+    "name": "Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Воронеж",
+    "url": "https://hh.ru/vacancy/82794657",
+    "requirement": "Опыт разработки на Java (>= 8) от 2 лет. Опыт работы с SQL (СУБД PostgreSQL или подобной). Опыт работы с Oracle..."
+  },
+  {
+    "name": "Backend-разработчик (Go/Java)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82842452",
+    "requirement": "Имеете опыт разработки от 2 лет на Go или Java, желание изучать и использовать оба. Имеете опыт в проектировании архитектуры..."
+  },
+  {
+    "name": "Разработчик Java, удаленно (Cuba, СЭД Тезис)",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Проектная работа",
+    "city": "Иркутск",
+    "url": "https://hh.ru/vacancy/81789945",
+    "requirement": "Опыт разработки в среде Tezis studio. Желателен опыт использования Git."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82678928",
+    "requirement": "Опыт коммерческой разработки на Java от 3 лет. Опыт работы на Spring\\Spring Boot. Хорошее знание и умение применять на..."
+  },
+  {
+    "name": "Backend программист (Java / Kotlin)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/77913831",
+    "requirement": "Как понять что ты подходишь. Фронтенд - Typescript/Javascript, React."
+  },
+  {
+    "name": "Senior Java-разработчик",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82191766",
+    "requirement": "Общий опыт работ 6-10 лет. Профильный опыт работ 3-5 лет. Образование высшее. Навыки: Java, Java DataBase Connectivity (JDBC..."
+  },
+  {
+    "name": "Разработчик Java",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Екатеринбург",
+    "url": "https://hh.ru/vacancy/82915082",
+    "requirement": "Опыт разработки на Java. Знание базовых структур данных. Умение применять паттерны проектирования на практике. Компоненты Java: основные Java EE, ORM..."
+  },
+  {
+    "name": "Java разработчик (команда Open API)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82921675",
+    "requirement": "Знание Java(8 или 17), Spring Framework(модули web, boot, cloud в частности). Опыт работы с системами сообщений - ActiveMQ, Kafka. "
+  },
+  {
+    "name": "Java разработчик (Подписка)",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82248835",
+    "requirement": "Владеет стеком: Java 8/11, Apache Maven, Spring Framework, Spring Boot, Hibernate, SQL и PostgreSQL. Имеет от трех лет опыта..."
+  },
+  {
+    "name": "Программист Python, Java",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "проспект Победы",
+    "employment": "Полная занятость",
+    "city": "Казань",
+    "url": "https://hh.ru/vacancy/81901596",
+    "requirement": "Необходимые профессиональные навыки: Знание Python, Java, SQL (MySQL). Опыт работы с фреймворком PyQT (pyside) будет преимуществом. Умение разбираться в чужом..."
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Революционная улица",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82351521",
+    "requirement": "Владение языком Java. Знание библиотек Apache Commons, JDBC, Log4J, Netty, Spring Framework. Владение ActionScript 3.0 для Flash..."
+  },
+  {
+    "name": "Junior/Middle Java-разработчик",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Байзакова",
+    "employment": "Полная занятость",
+    "city": "Алматы",
+    "url": "https://hh.ru/vacancy/82090182",
+    "requirement": "Высшее образование в области технических наук и технологий (компьютерная инженерия/ информационные системы/ вычислительная техника и программное обеспечение/ прикладная математика). "
+  },
+  {
+    "name": "Java разработчик (middle)",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/81772040",
+    "requirement": "Опыт коммерческой разработки от 3 лет. Опыт разработки RESTful-сервисов. Знание Hibernate, Spring, Spring Boot. Знание Git. Опыт работы с..."
+  },
+  {
+    "name": "Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/72297265",
+    "requirement": "Spring Core, Spring JDBC, Spring MVC, Spring Boot. REST, JSON, OpenAPI, Swagger. Опыт коммерческой разработки от 1 года. "
+  },
+  {
+    "name": "Junior Java Developer",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": "проспект Фрунзе",
+    "employment": "Полная занятость",
+    "city": "Томск",
+    "url": "https://hh.ru/vacancy/82443415",
+    "requirement": "Высшее, неоконченное высшее образование (в области информационных технологий). Знание и понимание принципов ООП, паттернов. Хорошее знание Java (core, collections, concurrency..."
+  },
+  {
+    "name": "Game Developer (Java)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Минск",
+    "url": "https://hh.ru/vacancy/82963795",
+    "requirement": "Опыт 1+ лет. Опыт работы в геймдев, мобильная разработка под Android и IOS. Языки: C++, C#, Java. "
+  },
+  {
+    "name": "Java developer cтажер",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Омск",
+    "url": "https://hh.ru/vacancy/82840497",
+    "requirement": "Ты выпускник 3-4 курсов технических специальностей. Расскажи о своих главных навыках и качествах, которые помогут пройти стажировку."
+  },
+  {
+    "name": "Middle Java Spring Developer / Java Разработчик / Java Программист",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Обнинск",
+    "url": "https://hh.ru/vacancy/81777921",
+    "requirement": "ООП. Принципы архитектуры MVC/MVVM. RESTful API. Уверенное знание языка и библиотек Java. Знание фреймворков spring/micronaut или любой ioc..."
+  },
+  {
+    "name": "Инженер-программист Java",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Казакова ",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/80804168",
+    "requirement": "1. Знание и опыт программирования на Java. Понимание принципов построения информационных систем. Понимание технологий сетей передачи данных. Понимание принципов ООП. "
+  },
+  {
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/82870265",
+    "requirement": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "name": "Backend-разработчик Java/Kotlin",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Пермь",
+    "url": "https://hh.ru/vacancy/82980348",
+    "requirement": "Знания Java 11 / Kotlin. Понимания принципов ООП, SOLID. Понимания принципов чистой архитектуры. Опыт коммерческой разработки на Java от 1 года. "
+  },
+  {
+    "name": "Java Developer",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/82542926",
+    "requirement": "Уверенные знания в рамках следующего техстека: Умение работать с Jenkins, Ansible, Git / BitBucket, Nexus, Jira, Confluence."
+  },
+  {
+    "name": "Java developer cтажер",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Новосибирск",
+    "url": "https://hh.ru/vacancy/82840498",
+    "requirement": "Ты выпускник 3-4 курсов технических специальностей. Расскажи о своих главных навыках и качествах, которые помогут пройти стажировку."
+  },
+  {
+    "name": "Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Кипр",
+    "url": "https://hh.ru/vacancy/81973548",
+    "requirement": "Hibernate + Metamodel."
+  },
+  {
+    "name": "Java Middle Backend Developer",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "17-й проезд Марьиной Рощи",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82679159",
+    "requirement": "Ищем опытного и самостоятельного разработчика, с развитой логикой и умением переводить с русского языка на программный и обратно. Технологии: Java. "
+  },
+  {
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": null,
+    "employment": "Стажировка",
+    "city": "Владивосток",
+    "url": "https://hh.ru/vacancy/82870267",
+    "requirement": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "name": "Java Software Developer (Middle-Senior)",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Ташкент",
+    "url": "https://hh.ru/vacancy/82890653",
+    "requirement": "Отличное знание Java 17 (или 11). Опыт программирования web сервисов с использованием: Java, Spring, Git, MVC, Cloud, Data. "
+  },
+  {
+    "name": "Java Developer (Junior+)",
+    "_salary": null,
+    "experience": "Без опыта",
+    "address": "улица Скрыганова",
+    "employment": "Полная занятость",
+    "city": "Минск",
+    "url": "https://hh.ru/vacancy/81759469",
+    "requirement": "Коммерческий опыт на позиции Java Developer 6-12 мес. Практический опыт работы с репозиториями (git). Опыт работы с SQL базами..."
+  },
+  {
+    "name": "Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/83076875",
+    "requirement": "Уверенные знания в рамках следующего техстека: Умение работать с Jenkins, Ansible, Git / BitBucket, Nexus, Jira, Confluence."
+  },
+  {
+    "name": "Junior Java-разработчик (г.Барнаул)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Барнаул",
+    "url": "https://hh.ru/vacancy/82887555",
+    "requirement": "Уверенное знание стека используемых технологий: Java, Spring Core, Spring Boot. Опыт разработки с использованием Oracle или PostgreSQL. Опыт разработки c..."
+  },
+  {
+    "name": "Разработчик Java (inRights)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Никитский переулок",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82908416",
+    "requirement": "Опыт разработки на Java от 2-х лет. Понимание реактивного и функционального подходов в программировании. Знание паттернов проектирования и способов..."
+  },
+  {
+    "name": "Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Нижний Новгород",
+    "url": "https://hh.ru/vacancy/80044975",
+    "requirement": "Имеете опыт разработки на Java 11+ от 1 года. Работали со Spring Framework (Boot, Data, AOP, Security). "
+  },
+  {
+    "name": "Java Backend-разработчик",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "улица Юности",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/81723720",
+    "requirement": "Обязательно: Отличное Знание Java 8+. Отличное, это когда не надо объяснять, что такое кэш Integer'ов, как работает HashMap..."
+  },
+  {
+    "name": "Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Череповец",
+    "url": "https://hh.ru/vacancy/82766609",
+    "requirement": "Опыт работы с Java (желательно от 8 версии). Понимание микросервисной архитектуры. Знакомство с REST API. Опыт работы с SQL (Oracle). "
+  },
+  {
+    "name": "Java Разработчик (Middle)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/83017289",
+    "requirement": "Опыт разработки на Java от 2 лет. Высшее техническое образование – желательно. Знание основных методологий разработки ПО. Уверенное знание Java 8..."
+  },
+  {
+    "name": "Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/81856832",
+    "requirement": "Опыт коммерческой разработки на Java от 2-х лет. Опыт написания unit - тестов. Знание SQL, опыт работы с PostgreSQL. "
+  },
+  {
+    "name": "Java-разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Казань",
+    "url": "https://hh.ru/vacancy/80086885",
+    "requirement": "Уверенные знания Java 1.8. Базовые знания Spring Framework. Базовые знания Hibernate. T-SQL (запросы, хранимые процедуры). Базовые знания Xslt. "
+  },
+  {
+    "name": "Java-разработчик (Цифровая ипотека)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Ленинградский проспект",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/83070934",
+    "requirement": "Опыт работы от 3-х лет. Опыт разработки систем с микросервисной архитектурой. Знание Java Spring: Core, Spring Data, Spring MVC..."
+  },
+  {
+    "name": "Java/Kotlin Программист / Инженер-программист",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "улица Ларина",
+    "employment": "Полная занятость",
+    "city": "Нижний Новгород",
+    "url": "https://hh.ru/vacancy/82731133",
+    "requirement": "Опыт в разработке прикладного программного обеспечения. Знание и опыт работы с языками программирования Kotlin, Java. Умение писать тесты и проводить..."
+  },
+  {
+    "name": "Программист Java",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/82588667",
+    "requirement": "Опыт коммерческой разработки Travel систем. Коммерческий опыт работы с React Native более 2х лет. Коммерческий опыт разработки систем с..."
+  },
+  {
+    "name": "BackEnd Java-разработчик (Middle)",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82854381",
+    "requirement": "Опыт backend-разработки на Java от 2 лет. Уверенное владение Java 8/11. Знание основных алгоритмов и структур данных. "
+  },
+  {
+    "name": "Java Разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": "Нижний Сусальный переулок",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/80276213",
+    "requirement": "Опыт разработки на Java от 2х лет: Java SE Core, Maven. Знания SQL и опыт работы с любой СУБД. "
+  },
+  {
+    "name": "Начинающий DevOps программист со знанием любого из языков C++, C# или Java",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": "Пушкинская улица",
+    "employment": "Полная занятость",
+    "city": "Тула",
+    "url": "https://hh.ru/vacancy/81863612",
+    "requirement": "Начальное знание любого из языков программирования C# / Java / C++. Опыт разработки на C++, C#, Java, JS, Python, Groovy. "
+  },
+  {
+    "name": "Java-программист (виртуализация)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/76676228",
+    "requirement": "Опыт и знание принципов работы систем виртуализации. Знание Java, GWT, Spring, EJB, SQL. Критично наличие коммерческого опыта работы с Google..."
+  },
+  {
+    "name": "Java Developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/81856920",
+    "requirement": "Опыт коммерческой разработки на Java от 2-х лет. Опыт написания unit - тестов. Знание SQL, опыт работы с PostgreSQL. "
+  },
+  {
+    "name": "Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Алматы",
+    "url": "https://hh.ru/vacancy/81974795",
+    "requirement": "Hibernate + Metamodel."
+  },
+  {
+    "name": "Java developer",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82978610",
+    "requirement": "Уверенный уровень знаний Java и базовых фреймворков (опыт разработки на языке 1+ года). Знание библиотек, фреймворков, сборщиков, IDE (Maven..."
+  },
+  {
+    "name": "Backend Kotlin/Java разработчик",
+    "_salary": null,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82298676",
+    "requirement": "Имеет опыт коммерческой backend-разработки на Kotlin/Java не меньше трех лет. Хорошо знает Spring. Работал с библиотеками тестирования. "
+  },
+  {
+    "name": "Java Developer",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Балтийская улица",
+    "employment": "Полная занятость",
+    "city": "Барнаул",
+    "url": "https://hh.ru/vacancy/82486689",
+    "requirement": "Понимание принципов разработки RESTful веб-сервисов. Понимание принципов работы реляционных баз данных. Опыт с Spring Framework, Maven. Опыт работы с..."
+  },
+  {
+    "name": "Java/Kotlin разработчик",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Казань",
+    "url": "https://hh.ru/vacancy/83015785",
+    "requirement": "Опыт коммерческой разработки на Java от 2х лет. Опыт работы со Spring 5, RabbitMQ, mongoDb, jUnit, Docker. "
+  },
+  {
+    "name": "Java/Kotlin разработчик (Java/Kotlin Developer)",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Варшавское шоссе",
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82552342",
+    "requirement": "Уверенное знание Java Core, Spring MVC, Hibernate, SQL. Желательно знание Kotlin, Spring WS, Apache Kafka, понимание микросервисной архитектуры. "
+  },
+  {
+    "name": "Разработчик Java (Java, KeyCloak)",
+    "_salary": null,
+    "experience": "От 1 года",
+    "address": null,
+    "employment": "Полная занятость",
+    "city": "Москва",
+    "url": "https://hh.ru/vacancy/82922702",
+    "requirement": "Java 8. JDBC. Spring framework 4+. Rest / SOAP. JUnit. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). Docker / Openshift. "
+  },
+  {
+    "name": "Преподаватель программирования, веб-разработки",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": "Волгоград, микрорайон Жилгородок, Кутузовская улица, 5",
+    "employment": "Полный рабочий день",
+    "city": "Волгоград",
+    "url": "https://volgograd.superjob.ru/vakansii/prepodavatel-programmirovaniya-38561557.html",
+    "requirement": "Обязанности:\n• Реализация ряда дисциплин, связанных с использованием информационных технологий в образовании для студентов направления подготовки Информационные системы и программирование (Квалификации Программист и Разработчик мультиседийных и веб приложений \n• Знакомство студентов с основами программирования на CИ++, разработка управляемых приложений на платформе «1С:Предприятие», использования различных программных решений, создания веб-приложений и т.д.\n\n\n• ЕСЛИ У ВАС НЕТ ПЕДАГОГИЧЕСКОГО ОБРАЗОВАНИЯ,НО ЕСТЬ ЖЕЛАНИЕ ДЕЛИТЬСЯ ОПЫТОМ И ЗНАНИЯМИ СО СТУДЕНТАМИ, КОТОРЫЕ ПЛАНИРУЮТ СВЯЗАТЬ СВОЮ ЖИЗНЬ С IТ, МЫ ОРГАНИЗУЕМ ДЛЯ ВАС ПРОФЕССИОНАЛЬНУЮ ПЕРЕПОДГОТОВКУ.\n\nЗнать:\n\n \n• Языки программирования: C/C#/C++, Python, Java, JavaScript, Assembler и др.\n• Web-разработка: HTML, CSS, PHP, JavaScript;\n• Разработка компьютерных игр: Unity;\n• Разработка бизнес приложений на платформе «1С:Предприятие»;\n• Робототехника;\n• Компьютерное железо;\n• Администрирование Windows, Linux;\n• Микроконтроллеры: Arduino, ESP32, STM32 и др.;\n• Системное администрирование Windows или Linux;\n• Компьютерные сети.\nУсловия:\n• Работа в Аудиториях обустроенных современным оборудованием (i5/i7 последних поколений, 16/32 gb RAM, GTX1650/RTX2070Super) \n• Оформление согласно ТК РФ"
+  },
+  {
+    "name": "Главный специалист Отдела программой эксплуатации",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": "Удмуртская Республика, Ижевск, улица Ленина, 134",
+    "employment": "Полный рабочий день",
+    "city": "Ижевск",
+    "url": "https://izhevsk.superjob.ru/vakansii/glavnyj-specialist-otdela-programmoj-ekspluatacii-43163788.html",
+    "requirement": "Обязанности:\n- Описание процессов и сценариев работы информационных систем;\n- Подготовка технических регламентов по работе с программными продуктами;\n- Создание технической документации;\n- Участие в функциональном и интеграционном тестировании и приемо-сдаточных испытаниях;\n- Аудит баз данных информационной системы СФР (проверка, сверка, сравнительный анализ БД);\n- Разработка программного обеспечения на Python, PHP, HTML, java-script, SQL, java;\n- Техническая поддержка пользователей\nТребования:\nВысшее профильное образование;\nЗнание и опыт администрирования современных операционных систем от 3 лет, в том числе Linux-систем (в приоритете - RedHat);\nЗнание языков программирования, в приоритете Python, PHP\nРабота с БД, знание SQL\nУверенные знания продуктов MS Office (в особенности Excel на уровне чтения/написания макросов на VBA, формул и работа со сводными таблицами, а так же PowerPoint)\nАналитический склад ума и высокая скорость мышления\nУмение анализировать запросы в базах, готовить письменные критические замечания для дальнейшей оптимизации структуры соответствующих баз данных и используемых запросов\nПросьба: резюме направлять на почту Кузьминой Светлане\nУсловия:\n- стабильная зарплата (2 раза в месяц) + премии;\n- оформление, отпуск, больничный и пр. - по ТК РФ;\n- дополнительный ежегодный отпуск в количестве 10 дней;\n- возможность быстрого профессионального и карьерного роста;\n- отличная материальная база для профессионального развития;\n- возможность обучения за счет работодателя."
+  },
+  {
+    "name": "Учитель по программированию",
+    "_salary": 0,
+    "experience": "Без опыта",
+    "address": "Москва, Зеленоград, к841",
+    "employment": "Неполный рабочий день",
+    "city": "Андреевка",
+    "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html",
+    "requirement": "Обязанности:\n• \nОбучение детей (4-14 лет) в группах программированию \n• \nФормирование у учеников логического системного мышления и развитие технических творческих способностей \n\n• Обучение детей основам проектной работы в IT\n• Поддержание интереса и мотивации учеников \nТребования:\n• \nОпыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра\n• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)\n• Умение объяснять сложное простыми (иногда детскими) словами \n• Любовь к детям и умение направить их энергию в нужное русло \n\n• Знание текстовых языков программирования Python, Java и прочее - желательно \n\nУсловия:\n• \nУдобный график (очень многое можно скорректировать совместно с администратором) \n• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только \n• Увлеченная команда преподавателей \n\n• Интересные и амбициозные задачи\n• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда"
+  },
+  {
+    "name": "Ведущий Java-разработчик (Команда Интеграции)",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Сменный график работы",
+    "city": "Екатеринбург",
+    "url": "https://ekaterinburg.superjob.ru/vakansii/veduschij-java-razrabotchik-45706493.html",
+    "requirement": "Ищем талантливого Java-разработчика для работы над задачами команды ДКБ CRM.\nВ работе используем стек технологий и инструменты: Java 17, Spring Framework 5, Hibernate Oracle, PostgreSQL, Mockito, Jenkins, Tomcat, Kafka.\nМетодология разработки - \"Scrumban\".\nВ команде есть владелец продукта, техлид, тимлид, аналитики, разработчики, скрам-мастер.\nЧто предстоит:\n• Разработка архитектуры и самого решения для backend части приложения;\n• Проектирование и разработка интерфейсов приложений/ключевых технологических и прикладных микросервисов платформы;\n• Внедрять новые фичи - мы активно работаем с фидбеком клиентов и постоянно улучшаем наши продукты\n• Оптимизировать скорость работы приложений (куда без этого);\n• Взаимодействие с разработчиками, аналитиками, дизайнерами и другими командами\nНам нужен человек, который:\n• Высшее техническое, математическое или другое профильное образование (в том числе курсы повышения квалификации) в сфере ИТ;\n• Java 11, 17, Spring Framework 5, принципы SOLID;\n• Знание паттернов проектирования;\n• Знание методологии TDD и понимание, как правильно писать тесты (модульные, интеграционные);\nБудет плюсом:\n• Опыт разработки Enterprise приложений;\n• Знание шаблона проектирования Domain-Driven Design;\n• Умение писать SQL запросы.\nМы предлагаем:\n• Гибкий график и удаленный формат;\n• Развитие внутри команды, регулярные code review;\n• Уровень ЗП обсуждаем индивидуально (ожидания+скиллы), все белое, полное соблюдение ТК РФ;\n• ДМС + стоматология;\n• Наши сотрудники имеют возможность оформить льготные кредиты и ипотеку;\n• Увлекательную корпоративную жизнь и даже удаленно."
+  },
+  {
+    "name": "Ведущий Java-разработчик",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Сменный график работы",
+    "city": "Екатеринбург",
+    "url": "https://ekaterinburg.superjob.ru/vakansii/veduschij-java-razrabotchik-45706574.html",
+    "requirement": "Ищем талантливого Java-разработчика для работы над задачами команды ДКБ CRM.\nВ работе используем стек технологий и инструменты: Java 17, Spring Framework 5, Hibernate Oracle, PostgreSQL, Mockito, Jenkins, Tomcat, Kafka.\nМетодология разработки - \"Scrumban\".\nВ команде есть владелец продукта, техлид, тимлид, аналитики, разработчики, скрам-мастер.\nЧто предстоит:\n• Разработка архитектуры и самого решения для backend части приложения;\n• Проектирование и разработка интерфейсов приложений/ключевых технологических и прикладных микросервисов платформы;\n• Внедрять новые фичи - мы активно работаем с фидбеком клиентов и постоянно улучшаем наши продукты\n• Оптимизировать скорость работы приложений (куда без этого);\n• Взаимодействие с разработчиками, аналитиками, дизайнерами и другими командами\nНам нужен человек, который:\n• Высшее техническое, математическое или другое профильное образование (в том числе курсы повышения квалификации) в сфере ИТ;\n• Java SE 8 или выше, Spring Framework 5, принципы SOLID;\n• Знание паттернов проектирования;\n• Знание методологии TDD и понимание, как правильно писать тесты (модульные, интеграционные);\nБудет плюсом:\n• Опыт разработки Enterprise приложений;\n• Знание шаблона проектирования Domain-Driven Design;\n• Умение писать SQL запросы.\nМы предлагаем:\n• Гибкий график и удаленный формат;\n• Развитие внутри команды, регулярные code review;\n• Уровень ЗП обсуждаем индивидуально (ожидания+скиллы), все белое, полное соблюдение ТК РФ;\n• ДМС + стоматология;\n• Наши сотрудники имеют возможность оформить льготные кредиты и ипотеку;\n• Увлекательную корпоративную жизнь и даже удаленно."
+  },
+  {
+    "name": "Ведущий Java-разработчик",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": null,
+    "employment": "Сменный график работы",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/veduschij-java-razrabotchik-45706575.html",
+    "requirement": "Ищем талантливого Java-разработчика для работы над задачами команды ДКБ CRM.\nВ работе используем стек технологий и инструменты: Java 17, Spring Framework 5, Hibernate Oracle, PostgreSQL, Mockito, Jenkins, Tomcat, Kafka.\nМетодология разработки - \"Scrumban\".\nВ команде есть владелец продукта, техлид, тимлид, аналитики, разработчики, скрам-мастер.\nЧто предстоит:\n• Разработка архитектуры и самого решения для backend части приложения;\n• Проектирование и разработка интерфейсов приложений/ключевых технологических и прикладных микросервисов платформы;\n• Внедрять новые фичи - мы активно работаем с фидбеком клиентов и постоянно улучшаем наши продукты\n• Оптимизировать скорость работы приложений (куда без этого);\n• Взаимодействие с разработчиками, аналитиками, дизайнерами и другими командами\nНам нужен человек, который:\n• Высшее техническое, математическое или другое профильное образование (в том числе курсы повышения квалификации) в сфере ИТ;\n• Java SE 8 или выше, Spring Framework 5, принципы SOLID;\n• Знание паттернов проектирования;\n• Знание методологии TDD и понимание, как правильно писать тесты (модульные, интеграционные);\nБудет плюсом:\n• Опыт разработки Enterprise приложений;\n• Знание шаблона проектирования Domain-Driven Design;\n• Умение писать SQL запросы.\nМы предлагаем:\n• Гибкий график и удаленный формат;\n• Развитие внутри команды, регулярные code review;\n• Уровень ЗП обсуждаем индивидуально (ожидания+скиллы), все белое, полное соблюдение ТК РФ;\n• ДМС + стоматология;\n• Наши сотрудники имеют возможность оформить льготные кредиты и ипотеку;\n• Увлекательную корпоративную жизнь и даже удаленно."
+  },
+  {
+    "name": "Backend-разработчик",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": "Москва, Нагорная улица, 4А",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/backend-razrabotchik-45987433.html",
+    "requirement": "Вам предстоит заниматься:\n• Развитием и улучшением backend нашего приложения;\n• Искать решения бизнес-задач, участвовать в обсуждении развития продукта, в том числе непосредственно с представителями бизнес-подразделений;\n• Предоставлять оценки задач;\n• Принимать участие в проектировании архитектуры, выборе технологии и принятии технических решений;\n• Заниматься улучшением существующего кода и делать рефакторинг;\n• Писать юнит-тесты;\n• Выполнять проверки кода других членов команды;\n• Заниматься анализом и оптимизацией производительности;\n• Помогать развивать и улучшать наш CI/CD пайплайн.\nМы ожидаем:\nОпыт программирования от 3-х лет практического опыта с Java либо с другими языками под JVM:\n• Понимание принципов ООП, основных паттернов проектирования (GOF, EAA);\n• Понимание принципов функционального программирования;\n• Опыт работы с реляционными СУБД;\n• Опыт работы с XML, XML Schema;\n• Системный подход к решению задач, самостоятельность и умение доводить начатое до конца;\n• Продуктовый подход и работа по agile. Убежденность, что любое ПО делается прежде всего для его пользователей.\nБудет плюсом:\n• Опыт программирования Scala от 3-х лет;\n• Опыт работы со стеком Java EE: JPA, CDI, JAX-WS, JMS;\n• Опыт проектирования REST API;\n• Опыт интеграции с другими системами;\n• Практический опыт с Postgres и SQL Server, понимание работы индексов и принципов оптимизации запросов;\n• Знание C++.\nУсловия:\n• Работа в крупной медицинской, динамично развивающейся компании.\n• Оформление по ТК РФ\n• Скидки на медицинские услуги, оказываемые в нашей организации.\n• Доход зависит от вашего опыта и обсуждается по результатам собеседования\n• Гибкий график, плавающее начало дня.\n• Недалеко от метро Нагорная, Профсоюзная, Тульская, Нижние Котлы."
+  },
+  {
+    "name": "Data Scientist (computer vision, machine learning)",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Ростов-на-Дону, проспект Стачки, 194",
+    "employment": "Полный рабочий день",
+    "city": "Ростов-на-Дону",
+    "url": "https://rnd.superjob.ru/vakansii/data-scientist-44342838.html",
+    "requirement": "Обязанности:\n• Разработка методов, алгоритмов, процедур;\n• Анализ данных;\n• Разработка программного обеспечения;\n• Написание отчетов, проведения информационных исследований.\nТребования: \n• Высшее профессиональное образование;\n• Знания в одной или нескольких из следующих областей: компьютерное зрение, обработка изображений, машинное обучение, обработка сигналов, математическое моделирование;\n• Знание и опыт разработки на одном из языков программирования (Python, Java, C#, C+ или C++ );\n• Опыт работы с различными научными и специализированными пакетами (Weka, Java-ML, OpenCV, PyTorch, Tensorflow, Keras, Numpy, Scipy, Matplotlib, Pandas);\n• Работа на различных версиях среды разработки не должна представлять для вас проблем;\n• Знание базовых алгоритмов и структур данных;\n• Глубокое знание математических основ алгоритмов и методов.\nУсловия:\n• Оформление в соответствии с ТК РФ;\n• Работа в корпусе по адресу: г. Ростов-на-Дону, проспект Стачки, 194 (удaленного формата работы нет);\n• 5-дневная 40-часовая рабочая неделя;\n• Ежегодный оплачиваемый отпуск 28 календарных дней;\n• Адаптация к должности в позитивной рабочей атмосфере;\n• Система дополнительных социальных гарантий со стороны профсоюзной организации ЮФУ."
+  },
+  {
+    "name": "Руководитель группы разработки ПО (Техлид)",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": "Красноярск, проспект Мира, 94",
+    "employment": "Полный рабочий день",
+    "city": "Красноярск",
+    "url": "https://krasnoyarsk.superjob.ru/vakansii/rukovoditel-gruppy-razrabotki-po-46277766.html",
+    "requirement": "Мы молодая, но уже известная на региональном рынке IT-компания. В нашей команде талантливые разработчики, креативные дизайнеры, опытные аналитики, ответственные менеджеры проектов. Результат нашей работы - активно используемые в государственном управлении информационные системы, отмеченные на всероссийских конкурсах \"ПРОФ-IT\" и \"ПРОФ-IT Инновация\". Разрабатываем с нуля, внедряем и сопровождаем сложные информационные системы. Вас ждёт широкий спектр интересных задач, позволяющих расти профессионально и реализовывать свои творческие амбиции.\n Ищем амбициозного руководителя группы разработки программного обеспечения (техлида) для работы в Красноярске от 30 лет,который будет отвечать за работу своей команды, качество, которое они производят, скорость и темп, с которыми они работают, но, что наиболее важно – за общий рост людей в ней. Важен опыт работы в данной сфере от 4-х лет/высшее профильное образование.\nМы используем:\n· Angular (Ionic);\n· HTML5, AJAX, CSS3, SASS;\n· TypeScript;\n· RxJS;\n· REST;\n· Python (Django)\n· Java Spring Boot\nПлюсом со стороны кандидата будет:\n· Наличие минимальных управленческих навыков;\n· Опыт работы с Docker, Kubernetes, Harbor;\n· Опыт в написании спецификаций OpenAPI;\n· Уверенное знание TypeScript;\n· Грамотное ведение Git репозитория\nМы ценим:\n· Стремление к росту;\n· Умение работать в команде, неконфликтность;\n· Умение доносить свою мысль;\n· Умение задавать тон (желание быть основой того, чего ожидают от остальной команды);\n· Внимание к деталям, мелочам;\n· Чувство юмора\nОбязанности:\n· Развивать командную экспертность;\n· Работать в команде c разработчиками, тестировщиками, дизайнерами;\n· Внедрять новые технологии, понимать, как эти технологии используются в рамках проектов;\n· Обеспечивать эффективные коммуникации между членами команды (разработчики, тестировщики, дизайнеры, аналитики);\n· Отвечать за результаты разработки продуктов;\n· Помогать переводу задач бизнеса в задачи, понятные разработчикам;\n· Работать над несколькими проектами параллельно;\n· Быть наставником группы разработки до 20 человек.\nМы предлагаем:\n· Официальное трудоустройство согласно ТК РФ;\n· Очную работу в офисе в центре города (пр. Мира) с доступом к любому виду транспорта;\n· График работы: пятидневная рабочая неделя с 9:00 до 18:00 или с 8:00 до 17:00;\n· Занятия английским 2 раза в неделю за счёт компании;\n· Официальное трудоустройство согласно ТК РФ;\n· Уровень “белой” з/пл. по результатам собеседования + премии;\n· Комфортные условия труда, оборудованная кухня, чай, кофе, дружный молодой коллектив;\n· ДМС за счёт компании;\n· Сопровождение наставника в роли начальника проектно-аналитического отдела на первых этапах работы;\n· Кафетерий льгот: обучение (накоплена обширная база курсов), спорт, отдых, туризм;\n· Возможность профессионального и карьерного роста;\n· Большие проекты краевого масштаба;\n· Развитую корпоративную культуру (мы проводим масштабные корпоративные мероприятия, дарим новогодние подарки детям, спортивные мероприятия, награждаем лучших сотрудников, поддерживаем в трудных жизненных ситуациях)\n\n\nПерспективы\nПрохождение курсов повышения квалификации за счёт компании, участие в различных семинарах, конференциях\nПорядок отклика\nДля рассмотрения вакансии, присылайте резюме и 2-3 свежие и лучшие работы по указанному электронному адресу.\nПосле получения резюме с Вами свяжутся и назначат время для прохождения собеседования в офисе нашей компании. Благодарим за проявленный интерес."
+  },
+  {
+    "name": "Преподаватель информатики (программирования на языке Java)",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Санкт-Петербург, улица Салова, 63",
+    "employment": "Полный рабочий день",
+    "city": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/prepodavatel-informatiki-46400841.html",
+    "requirement": "Обязанности:\n• Преподавание учебных дисциплин;\n• Организация учебной деятельности обучающихся по освоению учебных дисциплин;\n• Педагогический контроль и оценка освоения образовательной программы в процессе промежуточной и итоговой аттестации;\n• Разработка программно-методического обеспечения учебных дисциплин\n• Обучение студентов специальности 09.02.07 — Информационные системы и программирование\nТребования:\n• Высшее профильное образование\n• опыт работы от 1 года\n• Программирования на языке Java\nУсловия:\n• 6-ти дневная рабочая неделя, ежегодный оплачиваемый отпуск 56 дней\n• Преподаватель требуется с 1 сентября 2023 г."
+  },
+  {
+    "name": "Ведущий Web-разработчик (full stack)",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": "Москва, Кантемировская улица, 59А",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/veduschij-web-razrabotchik-46707431.html",
+    "requirement": "Компания «ТАКСИ РИТМ» – самая крупная из всех представленных на рынке таксомоторных компаний на территории г. Москвы и МО, которая существует более 17 лет. Мы активно растем и развиваемся.\nИщем к себе в команду Ведущего WEB разработчика (full stack).\nЧем предстоит заниматься:\n• Организация работы отдела;\n• Разработка и поддержка программных продуктов компании;\n• Общение с постановщиками задач;\n• Написать ТЗ;\n• Умение декомпозировать задачи;\n• Код ревью, оптимизация кода;\n• Работа над Безопасностью системы.\nЧто ждем от Вас:\n• Опыт работы с PHP (версии 7, 8) от 3 лет;\n• Опыт работы с MVC (Laravel обязательно);\n\n• Опыт Работы с Rabbit MQ;\n• Опыт работы с git (на высоком уровне);\n• Опыт работы с Linux (дистрибутив Debian);\n• Знание MySQL, уметь составлять сложные запросы;\n• Проектирование БД. Анализ нагрузки БД;\n• Высокий уровень знаний HTML, CSS, Javascript;\n• Знание библиотек Laravel, PHP;\n• Знание концепции MVC;\n• Знание языка Node.JS (умение написать свое приложение или микросервис);\n• Высшее/неоконченное высшее образование..\nБудет плюсом:\n• Опыт работы с АТС Asterisk через AMI;\n• Знание других языков приветствуется (Python, Java).\nНаш стек:\n• PHP (Laravel JS), MySQL (mariaDB), Nodejs, Rabbit MQ, немного Python, jquery, knockout js.\nЧто предлагаем мы:\n• Оформление с первого дня по ТК РФ (возможно ИП и Самозанятость);\n• График работы 5/2 (гибридный/офис/удаленный);\n• Заработная плата выплачивается 2 раза в месяц на карту;\n• Предоставляем бесплатное питание в уютном кафе на территории компании;\n• Оплачиваем внешнее обучение;\n• Для поддержания командного духа мы устраиваем веселые корпоративные мероприятия;\n• Уютный офис в шаговой доступности от станции метро Кантемировcкая."
+  },
+  {
+    "name": "Учитель информатики",
+    "_salary": 0,
+    "experience": "От 6 лет",
+    "address": "Москва, Университетский проспект, 5",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-34123084.html",
+    "requirement": "Обязанности:\n• \nРазработка рабочей программы по предмету. \n• \nОрганизация учебной деятельности обучающихся на уроке и во внеурочное время. \n• \nВедение электронного журнала\nТребования:\n• Высшее образование\n• стаж работы от 6 лет\n• опыт преподавания информатики углубленного уровня сложности в проектах ДОНМ \"ИТ-класс в московской школе\"; \"Инженерный класс в московской школе\";\n• результат прохождения учителем независимой диагностики в ЦНД МЦКО на уровень не ниже высокого\n• результативность подготовки к ОГЭ, ЕГЭ\n• Программирование: Перволого/Логомиры, Scratch, Кумир, Паскаль/Дельфи, Alice/Greenfoot/Java, C/C++, Python\n САПР: Компас\n Веб-дизайн и разработка: HTML5, CSS3, JavaScript, JQuery, PHP, Adobe Photoshop, Dreamweaver, Flash, AJAX\n СУБД: SQL (Oracle APEX), MySQL\n Администрирование: Windows, Linux, Cisco \n\nУсловия:\nШкола на протяжении ряда лет входит в 50 лучших школ по итогам рейтинга вклада ОО в качественное образование московских школьников; по итогам 2021-2022 уч.года школа удостоена Гранта Мэра 2 степени за достижение высоких результатов образовательной деятельности.\nШкола участвует в проектах ДОНМ \"ИТ-класс в московской школе\" (направление - программирование); \"Инженерный класс в московской школе\"."
+  },
+  {
+    "name": "Учитель информатики",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Санкт-Петербург, улица Лидии Зверевой, 3к2",
+    "employment": "Полный рабочий день",
+    "city": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-37923007.html",
+    "requirement": "В новую современную школу 575 в Приморском районе г. Санкт-Петербург мкр. Шуваловский, в связи с расширением и открытием новых классов приглашаем реализовать все свои профессиональные компетенции, знания и любовь к детям УЧИТЕЛЯ ИНФОРМАТИКИ.\nУсловия: \n• \n· Высокотехнологичное оснащение образовательного процесса: современные компьютеры, интерактивные панели, передвижные мобильные классы, большое разнообразие вспомогательной периферии, технологии и устройства AR/VR и тд;\n· Вариативность педагогической активности (приветствуется личная заинтересованность кандидата в той или иной сфере деятельности), возможность выстраивания трудовой деятельности согласно личным интересам и возможностям, область профессионального интереса может выходить за пределы преподавания предмета;\nТребования\n\n• \n· Планирование и проведение уроков информатики в 5-9 классах согласно ФГОС основного общего образования;\n· Знание офисных пакетов MS Office на высоком уровне, приветствуется ориентация кандидата как в настольных версиях, так и в облачных, мобильных, знание и опыт использования различных офисных пакетов;\n· Уровень владения персональным компьютером должен быть высоким (понимание процессов, происходящих в ОС, файловой системе, умение работы с командной строкой, четкое представление о сетевых технологиях, представление о процессах модели OSI)\n· Планирование и проведение внеурочной деятельности по робототехнике основанной на: LEGO, ARDUINO, Matrix, конструкторах Амперка, Матрешка, Трик, Роботрек. Приветствуется нацеливание на соревновательную робототехнику, участие в профессиональных конкурсах (НТИ, WordSkills, JuniorSkills, ИКаР, ИКаРенок, тематических олимпиадах);\n· Навыки пайки и знание основ микроэлектроники и схемотехники;\nПодготовка учащихся к ОГЭ, ЕГЭ, конкурсам и олимпиадам по предмету;\nУверенное знание языков программирована: Pascal, Python, среды Кумир. Будет плюсом знание С++, Java, PHP. Приветствуется понимание основ front-end и back-end разработки, мобильного и десктопного процесса создания приложений;"
+  },
+  {
+    "name": "Учитель информатики, робототехники (на 2023-24 учебный год)",
+    "_salary": 0,
+    "experience": "От 6 лет",
+    "address": "Москва, улица Академика Петровского, 10",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-37611505.html",
+    "requirement": "Обязанности:\n• Осуществляет обучение и воспитание обучающихся с учетом специфики преподаваемого предмета, проводит уроки и другие занятия в соответствии с расписанием в указанных помещениях.\n• Составляет тематический план работы по предмету в каждой параллели классов (с 1 по 11 класс) на учебный триместр и рабочий план на каждый урок.\n• В своей работе по предмету использует разнообразные приемы, методы и средства обучения.\n• Реализует образовательные программы.\n• Может переставлять по своему усмотрению темы уроков в отдельных разделах программы.\n• Обучение информатике и ИТ в соответствии с требованиями ФГОС. \n• Подготовка к ГИА . \n• Работа с разноуровневыми группами (по степени мотивации, успеваемости).\n• Организация внеурочной деятельности по предмету. \nТребования:\n• Высшее педагогическое образование. \n• Умение работать с системой электронного журнала (на базе ЭлЖур).\n• Умение работать с сайтом образовательного учреждения (на базе Tilda).\n• Программирование: Перволого/Логомиры, Scratch, Кумир, Паскаль/Дельфи, Alice/Greenfoot/Java, C/C++\n• Администрирование: Windows, Linux, Cisco\nУсловия:\n• Оформление по ТК РФ. Полный рабочий день. Варианты нагрузки - на собеседовании. \n• Дружный коллектив. На территории работодателя. \n• Обязательно наличие медицинской книжки, справка об отсутствии о судимости."
+  },
+  {
+    "name": "Инженер Программист",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Москва, Большой Предтеченский переулок, 7с1",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/inzhener-programmist-43147987.html",
+    "requirement": "Обязанности:\n• автоматизация процессов обработки и распространения данных потребителям с космических аппаратов;\n\n• программирование на языке Python (или С#, C++), приветствуется иметь навыки написания кода на других языках программирования;\n• разработка программного обеспечения на базе СУБД PostgreSQL;\n\n• поиск и устранение неисправностей в существующем программном обеспечении;\n• работа с ОС Linux (CentOS, openSUSE и др.), Asta linux, Windows (7,10, server 2012 – 2019);\n\n• разработка документации по ЕСПД и ЕСКД;\n• участие в монтажных работах по СКС (редко);\n• участие в установке и развертывании серверного оборудования, систем хранения данных, сетевого оборудования (редко);\n• участие в эксплуатации и развитии ИТ-инфраструктуры организации;\n\n• администрирование видеоконференцоборудования (работа по графику).\n\nТребования:\n\n• \nобразование высшее (допускается обучение в магистратуре, вечернее отделение);\n• \nработа с ОС Linux (CentOS, openSUSE и др.), Asta linux, Windows (7,10, server 2012 – 2019) на уровне администратора;\n• \nОбязательно знание:\n• \nосновы протоколов передачи данных по ЛВС;\n• \nязыка программирования python (рассмотрим кандидатов со знанием С++, Java готовых программировать на python);\n• \nСУБД PostgreSQL (и/или MySQL);\n• \nиметь общее представление работы с системами виртуализации (hyper-v; vmware; контейнеры docker и др.); \n\n• \nчитать техническую документацию на английском языке;\n• \nавтоматизировать рутиные задачи.\nУсловия:\n• Работа в центре Москвы (м. Краснопресненская).\n\n• график работы 5/2 с 9 до 18 часов;\n• Постоянная работа;\n• Дружная профессиональная команда;\n• Оформление по ТК РФ;\n• Интересные проекты;\n• Возможности карьерного роста (Компания постоянно развивается и растёт).\n• Уровень зарплаты обсуждается с успешным кандидатом.\nУважаемые соискатели,\nпросьба указывать ожидаемый уровень З/П на руки в сопроводительном письме!"
+  },
+  {
+    "name": "Программист микроконтроллеров / Инженер-схемотехник / Инженер-программист С/С++",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": "Санкт-Петербург, Ленинский проспект, 139",
+    "employment": "Полный рабочий день",
+    "city": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/programmist-mikrokontrollerov-43157657.html",
+    "requirement": "Требования:\n\n\nПрограммирование на С, С++ для микроконтроллеров фирм Renesas,ST,Nordic,Vango и др.\n\nТолько Cortex-M хх.\nДля компьютеров, как минимум потребуется написание тестовых программ на Java или С#. Желательно знание схемотехники и умение пользоваться САПР электронных схем, например, PCAD, Altium.\n Разработка ПО для контроллеров АСУ ТП и программирование контроллеров АСУ ТП - не интересует.\n\n\nУсловия:\n\n\nУсловия оговариваются на собеседовании. \n\nОформление по ТК.\nНаша компания аккредитована в Министерстве цифрового развития, связи и массовых коммуникаций Российской Федерации \n\nВысокая оплата труда, премирование за досрочное выполнение заданий.\nУровень оплаты труда будет установлен после собеседования."
+  },
+  {
+    "name": "Менеджер по продажам курсов в сфере IT и Digital в Synergy Academy",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Москва, Ленинградский проспект, 80Е",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/menedzher-po-prodazham-kursov-v-sfere-it-i-digital-v-synergy-academy-46104031.html",
+    "requirement": "Synergy Academy — один из масштабных проектов Корпорации Синергия.\nSynergy Academy – это дополнительное профессиональное образование по самым востребованным профессиям в сфере IT и Digital, таким как SMM-маркетолог, project-менеджер, SEO-специалист, интернет-маркетолог, PHP-разработчик, копирайтер, Java-разработчик, Data Scientist, таргетолог, Phython-разработчик.\nОбязанности:\n• Продажа самых популярных курсов в сфере IT и Digital;\n• Работа по входящим заявкам (рекламные каналы) и теплой базе;\n• Консультирование клиентов по телефону; \n• Ведение базы и оформление сделок в CRM;\n• Выполнение личного плана продаж;\n• Оформление сделок в CRM системе;\n• Ведение отчетности по своей работе.\nТребования:\n• Опыт в сфере информационных продуктов;\n• Опыт дистанционных продаж и знание техники продаж;\n• Грамотная речь;\n• Стрессоустойчивость, уверенность в себе, отсутствие боязни отказа, готовность к постоянным телефонным звонкам;\n• Активность, энергичность, целеустремленность, системный подход.\nУсловия:\n• Заработная плата: оклад 55 000 на руки+ % от продаж;\n• Совокупный доход в месяц от 80 000 руб.;\n• Официальное оформление по ТК РФ с первого дня работы;\n• График работы - 5/2 с 9.00-18.00 ч.;\n• Сотрудникам компании предоставляется:- возможность посещать тренинги и семинары ведущих российских и мировых спикеров за счет компании;\n• возможность обучения в собственной Автошколе компании и посещение спортивного клуба с солидной корпоративной скидкой;\n• Работа в офисе: станция метро Сокол (пешая доступность)."
+  },
+  {
+    "name": "Руководитель группы прикладной разработки (техлид)",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": "Москва, улица Островитянова, 1с6",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/rukovoditel-gruppy-prikladnoj-razrabotki-46199522.html",
+    "requirement": "Обязанности:\n• Определение оптимальных технологий для реализации текущих задач;\n• Разработка архитектуры прикладных информационных систем;\n• Написание программного кода на языках Java и Kotlin с использованием лучших практик и актуальных фреймворков;\n• Координация процесса разработки в части написания программного кода и отладки, доведение принятых принципов и архитектурных решений до других программистов (включая подрядчиков), а также проведение код-ревью;\n• Оформление технической документации по программным решениям. \nТребования:\n• Высшее техническое образование;\n• Не менее 5 лет в сфере разработки программного обеспечения;\n• Уверенное знание Java 17+ и Kotlin 1.7, владение фреймворком Spring 5 и 6 версии (включая его экосистему – Spring Boot, Security, JPA и т.п.);\n• Уверенное знание SQL (преимущественно PostgreSQL) и способов использования баз данных в экосистеме Java – JDBC, Hibernate;\n• Понимание принципов микросервисной архитектуры, опыт внедрения и использования средств мессаджинга (Apache Kafka);\n• Уверенное знание средств разработки (IntelliJ IDEA, GitLab) и опыт работы с ПО для организации процесса разработки (Jira, Confluence);\n• Коммуникабельность (умение четко формулировать мысли, доносить их до подчиненных и решать возникающие недопонимания).\n• Будет преимуществом:\n• Опыт работы с JavaScript/TypeScript, в частности, с фронтенд-фреймворком Vue3;\n• Наличие собственной лицензии на IntelliJ IDEA;\n• Опыт работы с шаблонизатором Thymeleaf;\n• Опыт работы с Groovy;\n• Опыт работы в руководящих должностях в сфере IT.\nУсловия:\n• Оформление по ТК РФ, заработная плата полностью «белая» и выплачивается в срок;\n• Оборудованное рабочее место в главном здании Университета у ст.м. «Тропарево», «Юго-Западная», «Коньково»;\n• Очная форма работы с обсуждаемым графиком и присутствием;\n• Бронирование от призыва в порядке, установленном законодательством."
+  },
+  {
+    "name": "Android-разработчик",
+    "_salary": 0,
+    "experience": "От 3 лет",
+    "address": "Москва, улица Малая Дмитровка, 20",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/android-razrabotchik-46409492.html",
+    "requirement": "SuperJob — это инновационная IT-компания, которая помогает соискателям найти работу, а работодателям — приобрести ценного сотрудника. Ежемесячно нашим сервисом пользуются миллионы соискателей и десятки тысяч работодателей, среди которых РЖД, Мегафон, МТС, Леруа Мерлен, Почта России, Сбербанк, Альфа-Банк, Ригла и многие другие. Мы активно развиваем нашу платформу и делаем ее лучше, подтверждая миссию «Работа должна доставлять удовольствие!»\n\n\nМы ищем старшего или ведущего разработчика в нашу команду Android-разработки, которая работает над 3 приложениями с более 400 000 активных установок.\nМы ценим вовлечённость и проактивность, разработчики привлекаются ко всему циклу работы над задачей: от проработки идеи до релиза на продакшн. \nСтек технологий:\n• Gradle multi-project: 100+ модулей. Демоаппы для быстрой пересборки фичеэкранов, используем свои темплейты студии для их генерации.\n• Для всей новой функциональности и тестов используется Kotlin, 60% кодовой базы на Kotlin.\n• Фиче-модули на MVVM, Android Jetpack, Jetpack Compose.\n• Используем Retrofit 2 / OkHttp, Yatagan для DI, Moshi для сериализации/десериализации JSON, Room Persistence Library для работы с БД, Firebase, Huawei Play Services.\n• Для написания фичей следуем Clean Architecture с использованием корутин.\n• CI настроен на TeamCity: сборки — на каждый на PR, релиз — каждые две недели.\n• Во всём остальном используем стек Atlassian (Jira, Bitbucket, Confluence).\n• Для общения — Rocket Chat, который интегрирован с остальными системами: сами пишем скрипты интеграции (например, оповещения в командные чаты о новых ревью, оповещения от TeamCity насчет релизов и прохождения тестов и т.д.).\nЧем предстоит заниматься:\n• Проектировать архитектуру приложений и клиент-серверное взаимодействие.\n• Писать качественный, поддерживаемый и тестируемый код на Kotlin.\n• Рефакторить старые фичи на новую архитектуру c Java на Kotlin.\n• Самостоятельно декомпозировать задачи.\n• Взаимодействовать с дизайнерами, менеджерами проектов и продуктов, разработчиками, аналитиками и тестировщиками.\n• Принимать участие в разработке всех приложений. Можно выбирать и технические задачи, и заниматься UI.\n• Релизиться каждые 2 недели.\nОт вас мы ждём:\n• Опыта коммерческой разработки нативных приложений под Android.\n• Опыта командной разработки.\n• Опыт работы с Kotlin.\n• Опыт работы с корутинами и Flow.\n• Опыт работы с RxJava 2 для рефакторинга старых фичей на корутины.\n• Опыта работы с Jetpack Compose.\nСвоему будущему коллеге мы предлагаем:\n• Работу в одном из самых быстрорастущих рынков - HRTech.\n• Высокую инженерную культуру.\n• Непрерывное профессиональное развитие внутри компании.\n• Возможность стать частью сплоченной команды, любящей свое дело.\n• Официальную заработную плату.\n• Современный офис в 10 минутах пешей прогулки от станций метро Пушкинская/Маяковская/Чеховская/Новослободская.\n• Спортивный уголок.\n• Комфортную зону отдыха.\n• Кофе-поинты с вкуснейшим кофе и вендинговым аппаратом.\n• Оборудованное просторное место для питания."
+  },
+  {
+    "name": "Мастер производственного обучения (программирование 5)",
+    "_salary": 0,
+    "experience": "От 1 года",
+    "address": "Москва, Рязанский проспект, 8с1",
+    "employment": "Полный рабочий день",
+    "city": "Москва",
+    "url": "https://www.superjob.ru/vakansii/master-proizvodstvennogo-obucheniya-46732910.html",
+    "requirement": "Обязанности:\n• \nпреподавание учебной практики в группах СПО:\n \n· ПМ.01 Разработка модулей программного обеспечения для компьютерных систем\n \n· ПМ.01 Разработка модулей программного обеспечения\n \n· ПМ.07 Соадминистрирование и автоматизация баз данных и серверов\n \n· ПМ.11 Разработка, администрирование и защита баз данных\n \n· ПМ.12 Выполнение работ по профессии \"Оператор электронно-вычислительных и вычислительных машин\"\n \n· ПМ.16 Применение методов искусственного интеллекта в программировании\n \n· ПМ.04 Сопровождение и обслуживание программного обеспечения компьютерных систем\n \n· ПМ.05 Проектирование и разработка информационных систем\n \n· ПМ.08 Разработка дизайна веб-приложений\n \n· ПМ.02 Осуществление интеграции программных модулей\n \n· ПМ.11 Осуществление интеграции программных модулей\n\nТребования:\n• \n• образование, знания, умения - в соответствии с Профстандартом.\n \n• владение навыками работы в специализированных программах а также: Microsoft Excel, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Интернет, электронная почта.\n \n• Медицинская книжка, медицинское освидетельствование психиатр/нарколог, справка об отсутствии судимости\n \n• Программирование в системе 1С. \n \n• Сертификат 1С:Профессионал и выше. \n \n• Языки программирования: C#, Python, Java, 1С, Kotlin, С++, Swift\n \n Сертификаты приветствуются \n\nУсловия:\n• \n• Работа на территории работодателя\n \n• Полный социальный пакет\n \n Отпуск в летнее время"
   }
 ]

@@ -72,6 +72,30 @@ class Json_Saver(Saver_file):
                                    ensure_ascii=False,
                                    escape_forward_slashes=False))
 
+    def is_consistent_data(self, job: dict) -> bool:
+        """
+        Проверка, являются ли данные вакансии консистентными
+        :param job: словарь с информацией о вакансии
+        :return: bool: True, если данные консистентны, иначе False
+        """
+        # Проверка наличия всех обязательных полей и их типов данных
+        if (
+                'name' in job
+                and 'experience' in job
+                and 'city' in job
+                and 'url' in job
+                and 'address' in job
+                and 'salary' in job
+                and isinstance(job['name'], str)
+                and isinstance(job['experience'], str)
+                and isinstance(job['city'], str)
+                and isinstance(job['url'], str)
+                and isinstance(job['address'], str) or job['address'] is None
+                and isinstance(job['salary'], int) or job['salary'] is None
+        ):
+            return True
+        return False
+
     def get_salary(self, salary: int) -> list:
         """
             Метод для получения вакансий по зарплате.
@@ -88,7 +112,7 @@ class Json_Saver(Saver_file):
         with open(self.file, 'r', encoding="utf-8") as file:
             ujson_data = ujson.load(file)
             return [ujson_data[item] for item in
-                    range(len(ujson_data)) if ujson_data[item]['_Vacancy__city'] == city]
+                    range(len(ujson_data)) if ujson_data[item]['city'] == city]
 
     def get_experience(self, experience):
         """
@@ -97,7 +121,7 @@ class Json_Saver(Saver_file):
         with open(self.file, 'r', encoding="utf-8") as file:
             ujson_data = ujson.load(file)
             return [ujson_data[item] for item in range(len(ujson_data)) if
-                    ujson_data[item]['_Vacancy__experience'] == experience]
+                    ujson_data[item]['experience'] == experience]
 
     def jobs_deleting(self, jobs):
         """
@@ -119,6 +143,79 @@ class Json_Saver(Saver_file):
         """
         os.remove(self.file)
 
+
+# class TXT_Saver(Saver_file):
+#     file = os.path.join("saver file", 'vacancy.txt')
+#
+#     def jobs_adding(self, jobs: dict) -> None:
+#         """
+#         Метод добавление данных в формате json
+#         :param jobs: словарь, который добавляется в файл
+#         :return: None
+#         """
+#         # проверка на существование файла
+#         if not os.path.exists(self.file):
+#             with open(self.file, 'w', encoding='utf-8') as f:
+#                 ujson.dump([], f)
+#             # добавление в список вакансий
+#         with open(self.file, 'r', encoding='utf-8') as f:
+#             file = ujson.load(f)
+#             file.append(jobs)
+#             # запись в файл
+#         with open(self.file, 'w', encoding='utf-8') as f:
+#             ujson.dump(file, f)
+#
+#     def get_salary(self, salary: int) -> list:
+#         """
+#         Метод на проверку зарплаты
+#         :param salary: запралата
+#         :return: Список подходящих вакансий
+#         """
+#         with open(self.file, 'rb') as f:
+#             txt_date = ujson.load(f, encoding='utf-8')
+#             return [item for item in txt_date if int(item['_Vacancy__salary']) == salary]
+#
+#     def get_city(self, city: str) -> list:
+#         """
+#         Метод на проверку города
+#         :param city: город
+#         :return: Список подходящих вакансий
+#         """
+#         with open(self.file, 'rb') as f:
+#             txt_date = ujson.load(f, encoding='utf-8')
+#             return [item for item in txt_date if item['_Vacancy__city'] == city]
+#
+#     def get_experience(self, experience: str) -> list:
+#         """
+#         Метод на проверку опыта работы
+#         :param experience: опыт работы
+#         :return: Список подходящих вакансий
+#         """
+#         with open(self.file, 'rb') as f:
+#             txt_date = ujson.load(f, encoding='utf-8')
+#             return [item for item in txt_date if item['_Vacancy__experience'] == experience]
+#
+#     def jobs_deleting(self, jobs: dict) -> None:
+#         """
+#         Метод на удаление выбранной вакансии
+#         :param jobs: словарь вакансии
+#         :return: None
+#         """
+#         try:
+#             with open(self.file, 'rb') as f:
+#                 txt_date = ujson.load(f, encoding='utf-8')
+#                 txt_date.remove(jobs)
+#             with open(self.file, 'wb') as f:
+#                 ujson.dump(txt_date, f)
+#         except ValueError:
+#             print('Все вакансии удалены')
+#
+#     def file_cleaning(self) -> None:
+#         """
+#         Очищение файла от вакансий
+#         :return: None
+#         """
+#         os.remove(self.file)
 # json_saver = Json_Saver()
 #
 # job1 = {
@@ -133,3 +230,4 @@ class Json_Saver(Saver_file):
 #
 # salary_5000 = json_saver.get_salary(5000)
 # print(salary_5000)
+
