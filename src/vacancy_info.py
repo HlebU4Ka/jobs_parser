@@ -18,17 +18,17 @@ class Vacancy:
                 url (str): URL вакансии.
                 requirement (str): Требования для вакансии.
         """
-        self.__name = name
+        self.name = name
         if salary is None:
-            self.__salary = salary
+            self.salary = salary
         else:
-            self.__salary = 0
-            self.__experience = experience
-            self.__address = address
-            self.__employment = employment
-            self.__city = city
-            self.__url = url
-            self.__requirement = requirement
+            self.salary = 0
+        self.experience = experience
+        self.address = address
+        self.employment = employment
+        self.city = city
+        self.url = url
+        self.requirement = requirement
 
     @property
     def salary(self):
@@ -37,7 +37,7 @@ class Vacancy:
         Возвращает:
             int: Зарплата для вакансии.
         """
-        return self.__salary
+        return self.salary
 
     def __gt__(self, other):
         """
@@ -49,7 +49,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет большую зарплату, иначе False.
                 """
-        return self.__salary > other.__salary
+        return self.salary > other.__salary
 
     def __ge__(self, other):
         """
@@ -61,7 +61,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет большую или равную зарплату, иначе False.
                 """
-        return self.__salary >= other.__salary
+        return self.salary >= other.__salary
 
     def __lt__(self, other):
         """
@@ -73,7 +73,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет меньшую зарплату, иначе False.
                 """
-        return self.__salary < other.__salary
+        return self.salary < other.__salary
 
     def __le__(self, other):
         """
@@ -85,7 +85,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет меньшую или равную зарплату, иначе False.
                 """
-        return self.__salary <= other.__salary
+        return self.salary <= other.__salary
 
     def __eq__(self, other):
         """
@@ -97,7 +97,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет равную зарплату, иначе False.
                 """
-        return self.__salary == other.__salary
+        return self.salary == other.__salary
 
     def __str__(self):
         """
@@ -106,9 +106,9 @@ class Vacancy:
                 Возвращает:
                     str: Строковое представление вакансии.
                 """
-        return f'{self.__name}, {self.__salary}, {self.__experience}, ' \
-               f'{self.__address}, {self.__employment},' \
-               f'{self.__city}, {self.__url}, {self.__requirement}'
+        return f'{self.name}, {self.salary}, {self.experience}, ' \
+               f'{self.address}, {self.employment},' \
+               f'{self.city}, {self.url}, {self.requirement}'
 
     def __repr__(self):
         """
@@ -117,11 +117,14 @@ class Vacancy:
                Возвращает:
                    str: Строковое представление вакансии.
                """
-        return f"{self.__class__.__name__}('{self.__name}', " \
-               f"{self.__salary}, '{self.__experience}'," \
-               f"'{self.__address}', '{self.__employment}', " \
-               f"'{self.__city}', '{self.__url}', '{self.__requirement}')"
+        return f"{self.__class__.__name__}('{self.name}', " \
+               f"{self.salary}, '{self.experience}'," \
+               f"'{self.address}', '{self.employment}', " \
+               f"'{self.city}', '{self.url}', '{self.requirement}')"
 
+    @salary.setter
+    def salary(self, value):
+        self._salary = value
 
 #
 # vacancy = Vacancy("Software Engineer", 5000, "3 years", "123 Main St", "Full-time", "City", "example.com", "Requirements")
