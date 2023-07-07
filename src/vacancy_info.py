@@ -49,7 +49,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет большую зарплату, иначе False.
                 """
-        return self.salary > other.__salary
+        return self.salary > other.salary
 
     def __ge__(self, other):
         """
@@ -61,7 +61,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет большую или равную зарплату, иначе False.
                 """
-        return self.salary >= other.__salary
+        return self.salary >= other.salary
 
     def __lt__(self, other):
         """
@@ -73,7 +73,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет меньшую зарплату, иначе False.
                 """
-        return self.salary < other.__salary
+        return self.salary < other.salary
 
     def __le__(self, other):
         """
@@ -85,7 +85,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет меньшую или равную зарплату, иначе False.
                 """
-        return self.salary <= other.__salary
+        return self.salary <= other.salary
 
     def __eq__(self, other):
         """
@@ -97,7 +97,7 @@ class Vacancy:
                 Возвращает:
                     bool: True, если текущая вакансия имеет равную зарплату, иначе False.
                 """
-        return self.salary == other.__salary
+        return self.salary == other.salary
 
     def __str__(self):
         """
